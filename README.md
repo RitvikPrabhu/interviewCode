@@ -1,2 +1,2 @@
 # interviewCode
-This repository contains Leet Code questions that I find important
+This repository contains Leet Code questions that I solve in python
